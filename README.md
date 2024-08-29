@@ -1,4 +1,5 @@
 # directory_spaces_remover
+
 Remove any spaces from every single file or folder of a given directory.
 
 Just enter the directory and the work will be done.
